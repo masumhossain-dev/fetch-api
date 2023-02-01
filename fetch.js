@@ -1,0 +1,1 @@
+const loadPosts = fetch('https://jsonplaceholder.typicode.com/posts')
